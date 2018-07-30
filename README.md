@@ -39,8 +39,8 @@ $ docker start -i curso-pln
 libretas](https://github.com/unam-pln/libretas-curso) en tu
 repositorio.
 
-```sh ~/curso-pln# git clone
-https://github.com/unam-pln/libretas-curso.git
+```sh
+~/curso-pln# git clone https://github.com/unam-pln/libretas-curso.git
 ```
 
 Sin embargo, no fue posible cargar un modelo de semántica distribuida,
