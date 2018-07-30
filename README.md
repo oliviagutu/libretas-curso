@@ -37,14 +37,18 @@ $ docker start -i curso-pln
 
 3. Clonar el [proyecto de github con las
 libretas](https://github.com/unam-pln/libretas-curso) en tu
-repositorio.  ```sh ~/curso-pln# git clone
-https://github.com/unam-pln/libretas-curso.git ```
+repositorio.
+
+```sh ~/curso-pln# git clone
+https://github.com/unam-pln/libretas-curso.git
+```
 
 Sin embargo, no fue posible cargar un modelo de semántica distribuida,
 ya que el tamaño del archivo era muy grande para *github*. Por esto hay que
 hacer los siguientes pasos adicionales.
 
 4. Ir a las libretas y crear un directorio modelo
+
 ```sh
 ~/curso-pln# cd libretas-curso/
 ~/curso-pln/libretas-curso# mkdir modelos
