@@ -1,1 +1,5 @@
 modelos/fasttext-sbwc.vec.gz
+*.pkl
+
+# Jupyter Notebook
+.ipynb_checkpoints
